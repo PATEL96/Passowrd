@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Passowrd/static/css/main.cd72774e.css",
+    "main.js": "/Passowrd/static/js/main.22c6e5c3.js",
+    "index.html": "/Passowrd/index.html",
+    "main.cd72774e.css.map": "/Passowrd/static/css/main.cd72774e.css.map",
+    "main.22c6e5c3.js.map": "/Passowrd/static/js/main.22c6e5c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd72774e.css",
+    "static/js/main.22c6e5c3.js"
+  ]
+}

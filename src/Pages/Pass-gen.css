@@ -1,0 +1,150 @@
+.Pass-info {
+  border-radius: 10px;
+  margin-top: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  color: azure;
+  font-size: 30px;
+  min-height: 100px;
+  background-color: #1f1f1e;
+}
+.area-dis {
+  position: relative;
+  height: 54px;
+  background-color: #383837;
+  padding: 10px 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.pass-name {
+  position: absolute;
+  left: 10px;
+}
+.Copy-btn {
+  position: absolute;
+  border: none;
+  cursor: pointer;
+  padding: 15px;
+  color: azure;
+  background-color: #1f1f1e;
+  right: 1.3px;
+  top: 1.5px;
+  height: 50px;
+}
+.Copy-btn:hover {
+  color: #383837;
+  background-color: azure;
+}
+.Pre-req {
+  position: relative;
+  background-color: #1f1f1e;
+  padding: auto;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.length {
+  position: relative;
+  background-color: #1f1f1e;
+  padding: 5px;
+  height: 50px;
+}
+.password-length {
+  position: absolute;
+  left: 10px;
+  padding: 2px;
+}
+.length-box {
+  position: absolute;
+  height: 30px;
+  right: 5px;
+  top: 10px;
+  padding: 5px;
+}
+.Upper-case {
+  position: relative;
+  background-color: #1f1f1e;
+  padding: 5px;
+  height: 50px;
+}
+.Upper-case-pos {
+  position: absolute;
+  left: 10px;
+  padding: 2px;
+}
+.Upper-case-check {
+  cursor: pointer;
+  position: absolute;
+  right: 20px;
+  top: 18px;
+  padding: 5px;
+}
+.Lower-case {
+  position: relative;
+  background-color: #1f1f1e;
+  padding: 5px;
+  height: 50px;
+}
+.Lower-case-pos {
+  position: absolute;
+  left: 10px;
+  padding: 2px;
+}
+.Lower-case-check {
+  cursor: pointer;
+  position: absolute;
+  right: 20px;
+  top: 18px;
+  padding: 5px;
+}
+.Numbers {
+  position: relative;
+  background-color: #1f1f1e;
+  padding: 5px;
+  height: 50px;
+}
+.Numbers-pos {
+  position: absolute;
+  left: 10px;
+  padding: 2px;
+}
+.Numbers-check {
+  cursor: pointer;
+  position: absolute;
+  right: 20px;
+  top: 18px;
+  padding: 5px;
+}
+.Symbols {
+  position: relative;
+  background-color: #1f1f1e;
+  padding: 5px;
+  height: 50px;
+}
+.Symbols-pos {
+  position: absolute;
+  left: 10px;
+  padding: 2px;
+}
+.Symbols-check {
+  cursor: pointer;
+  position: absolute;
+  right: 20px;
+  top: 18px;
+  padding: 5px;
+}
+.Generate-btn {
+  font-size: 30px;
+  border: none;
+  cursor: pointer;
+  padding: 15px;
+  color: azure;
+  background-color: #383837;
+  height: auto;
+  width: 400px;
+}
+.Generate-btn:hover {
+  color: #383837;
+  background-color: azure;
+}
